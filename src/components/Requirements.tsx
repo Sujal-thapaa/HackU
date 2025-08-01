@@ -28,13 +28,13 @@ const Requirements = () => {
   const importantDates = [
     {
       event: 'Opening Ceremony',
-      date: 'January 16th, 2025',
+      date: 'January 16th, 2026',
       time: '7:00 PM EST',
       description: 'Kickoff event with theme announcement and team formation'
     },
     {
       event: 'Submissions Due',
-      date: 'January 18th, 2025',
+      date: 'January 18th, 2026',
       time: '12:00 PM EST',
       description: 'Final deadline for all project submissions'
     },
