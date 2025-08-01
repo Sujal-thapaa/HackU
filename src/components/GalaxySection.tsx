@@ -133,7 +133,7 @@ const v6Data: HackathonData = {
   color: "#C0C0C0",
   glowColor: "#888888",
   position: { x: 0, y: 0, z: 0 },
-  link: "https://unitedhacksv6.devpost.com/?ref_feature=challenge&ref_medium=discover&_gl=1*3d8olg*_gcl_au*MTU3NzE2NzUxOC4xNzU0MDE2OTU4*_ga*NzQ5OTA3MDkwLjE3NTQwMTY5NTg.*_ga_0YHJK3Y10M*czE3NTQwMTY5NTgkbzEkZzEkdDE3NTQwMTY5NjIkajU2JGwwJGgw#prizes",
+  link: "https://unitedhacksv6.devpost.com/",
   articleLink: "#"
 };
 
