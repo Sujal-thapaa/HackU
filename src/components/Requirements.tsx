@@ -53,14 +53,14 @@ const Requirements = () => {
   ];
 
   const registrationSteps = [
-    'Sign up on Devpost',
-    'Join our Discord server (primary method of communication with participants)'
+    'Sign up on this Devpost.',
+    'Join our Discord, as it\'s our primary method of communication with participants.'
   ];
 
   const workshopInfo = {
     title: 'Workshop Schedule',
     status: 'Coming soon',
-    description: 'All workshop links will be posted in our Discord server, and are hyperlinked on the schedule'
+    description: 'All workshop links will be posted in our Discord, and are hyperlinked on the schedule'
   };
 
   const themeInfo = {
@@ -205,4 +205,4 @@ const Requirements = () => {
   );
 };
 
-export default Requirements; 
+export default Requirements;
