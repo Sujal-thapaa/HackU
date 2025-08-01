@@ -8,40 +8,41 @@ const stages = [
   {
     id: 'hack',
     icon: Code2,
-    title: 'Hack',
-    subtitle: 'Innovate with bleeding-edge tech',
-    description: 'Dive deep into cutting-edge technologies and build solutions that push the boundaries of what\'s possible.',
+    title: 'Hack & Compete',
+    subtitle: 'Innovate with cutting-edge tech',
+    description: 'Build powerful solutions using the latest technologies. Challenge yourself against global talent and showcase your skills in the ultimate coding competition.',
     color: 'from-purple-600 to-pink-600',
     bgColor: 'bg-gradient-to-br from-purple-900/20 to-pink-900/20',
   },
   {
     id: 'learn',
     icon: Lightbulb,
-    title: 'Learn',
-    subtitle: 'Expand your technical horizons',
-    description: 'Access exclusive workshops, mentorship sessions, and resources to accelerate your growth as a developer.',
+    title: 'Learn & Grow',
+    subtitle: 'Expand your skills with expert guidance',
+    description: 'Join workshops, mentorships, and masterclasses led by top tech professionals. Level up your abilities and accelerate your developer journey.',
     color: 'from-amber-500 to-orange-600',
     bgColor: 'bg-gradient-to-br from-amber-900/20 to-orange-900/20',
   },
   {
-    id: 'collaborate',
+    id: 'network',
     icon: Users,
-    title: 'Collaborate',
-    subtitle: 'Connect with brilliant minds',
-    description: 'Network with like-minded innovators, form lasting partnerships, and build something amazing together.',
+    title: 'Collaborate & Network',
+    subtitle: 'Build lasting connections',
+    description: 'Meet and team up with developers, founders, and innovators from around the world. Forge partnerships that go beyond the hackathon.',
     color: 'from-emerald-500 to-teal-600',
     bgColor: 'bg-gradient-to-br from-emerald-900/20 to-teal-900/20',
   },
   {
     id: 'win',
     icon: Trophy,
-    title: 'Win',
-    subtitle: 'Claim your victory',
-    description: 'Compete for incredible prizes, recognition, and opportunities that can transform your career.',
+    title: 'Win Big',
+    subtitle: 'Unlock prizes and opportunities',
+    description: 'Stand out and earn recognition, cash rewards, and career-changing opportunities that can shape your future.',
     color: 'from-yellow-400 to-amber-500',
     bgColor: 'bg-gradient-to-br from-yellow-900/20 to-amber-900/20',
   }
 ];
+
 
 // StageCard component for each individual stage
 const StageCard = ({ stage, index }) => {

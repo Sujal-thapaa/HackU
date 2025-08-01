@@ -39,7 +39,6 @@ function App() {
       <About />
       <GalaxySection />
       <WhyParticipate />
-      <Explore />
       <Judges />
       <Requirements />
       <Prizes />
