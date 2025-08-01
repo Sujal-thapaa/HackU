@@ -163,7 +163,7 @@ const AnimatedPath = () => {
   );
 };
 
-const WhyParticipate = () => {
+function App() {
   const containerRef = useRef(null);
   const [activeStage, setActiveStage] = useState(0);
   const { scrollYProgress } = useScroll({
@@ -258,6 +258,7 @@ const WhyParticipate = () => {
       </div>
     </section>
   );
-};
+}
+
 
 export default WhyParticipate;
