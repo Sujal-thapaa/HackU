@@ -35,7 +35,7 @@ const hackathonData: HackathonData[] = [
     color: "#FF6B6B",
     glowColor: "#FF6B6B40",
     position: { x: -220, y: -100, z: -60 },
-    link: "https://unitedhacks23.devpost.com/?ref_feature=challenge&ref_medium=discover&_gl=1*1rfg15a*_gcl_au*MTU3NzE2NzUxOC4xNzU0MDE2OTU4*_ga*NzQ5OTA3MDkwLjE3NTQwMTY5NTg.*_ga_0YHJK3Y10M*czE3NTQwMjg4OTQkbzIkZzEkdDE3NTQwMzA3OTIkajckbDAkaDA.",
+    link: "https://unitedhacks23.devpost.com/",
     articleLink: "#"
   },
   {
@@ -111,7 +111,7 @@ const hackathonData: HackathonData[] = [
     color: "#FECA57",
     glowColor: "#FECA5740",
     position: { x: 80, y: -200, z: -40 },
-    link: "https://unitedhacksv5.devpost.com/?ref_feature=challenge&ref_medium=discover&_gl=1*yj18gr*_gcl_au*MTU3NzE2NzUxOC4xNzU0MDE2OTU4*_ga*NzQ5OTA3MDkwLjE3NTQwMTY5NTg.*_ga_0YHJK3Y10M*czE3NTQwMTY5NTgkbzEkZzEkdDE3NTQwMTg5NDYkajU0JGwwJGgw",
+    link: "https://unitedhacksv5.devpost.com/",
     articleLink: "https://blog.hackunited.org/united-hacks-recap-tackling-mental-health-challenges-through-technology"
   }
 ];
