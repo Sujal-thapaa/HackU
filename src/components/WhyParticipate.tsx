@@ -260,5 +260,4 @@ const WhyParticipate = () => {
   );
 }
 
-
 export default WhyParticipate;
