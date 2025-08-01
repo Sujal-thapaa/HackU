@@ -35,8 +35,9 @@ function App() {
     <div className="min-h-screen bg-black text-white">
       <Navbar />
       <Hero />
-      <GalaxySection />
+      
       <About />
+      <GalaxySection />
       <WhyParticipate />
       <Explore />
       <Judges />

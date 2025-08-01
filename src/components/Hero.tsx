@@ -141,10 +141,6 @@ const Hero = () => {
         
         console.log('Adjusted camera position:', camera.position);
         
-        // Add a simple bounding box helper for debugging
-        const boxHelper = new THREE.Box3Helper(box, 0xff0000);
-        scene.add(boxHelper);
-        
         setIsLoading(false);
       },
       (progress) => {
